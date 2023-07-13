@@ -1,7 +1,7 @@
 ### Hello, I'm Ibsen✋
 
 - 🔭 I’m currently working on Machine Learning and Geophysics 😁
-- 🌱 I’m currently learning Python and SQL languages and A.I. methods 🤩
+- 🌱 I’m currently learning Python and SQL languages and Machine Learning methods 🤩
 - 🤔 I’m looking for help with any improvement in my codes 😬
 - 💬 Talk with me about A.I. and Geophysics 🙂
 - ⚡ Fun fact: I didn't like programming in my first contacts! 😅
