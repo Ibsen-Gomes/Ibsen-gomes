@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Machine Learning and Geophysics 😁
 - 🌱 I’m currently learning more about Python and SQL languages and A.I. 🤩
 - 🤔 I’m looking for help with any improvement in my codes 😬
-- 💬 Talk with me about A.I. and Geophysics 🙂
+- 💬 Talk with me about A.I. 🙂
 - ⚡ Fun fact: I didn't like programming in my first contacts! 😅
 - 📫 How to reach me: ibsengomes@on.br or [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibsen-pereira-da-silva-gomes-03954a153/)
 
